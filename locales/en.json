@@ -1,0 +1,16 @@
+{
+  "app.name": "CineConnect",
+  "login.title": "Login — CineConnect",
+  "login.phonePlaceholder": "+91 98765 43210",
+  "onboarding.chooseRole": "Choose your role",
+  "role.crew": "Crew",
+  "role.talent": "Talent",
+  "role.vendor": "Vendor",
+  "role.production": "Production",
+  "rent.title": "CineRent — Equipment Marketplace",
+  "rent.book": "Book Pannu",
+  "feed.title": "Kodambakkam Timeline",
+  "profile.availableFrom": "Available from",
+  "messages.title": "Messages",
+  "admin.verify": "FEFSI Verification"
+}
